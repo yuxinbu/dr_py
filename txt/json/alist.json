@@ -1,15 +1,15 @@
 [{
 	"name": "🙋丫仙女",
-	"server": "http://alist.xiaoya.pro/",
+	"server": "http://www.dengpao.space:5255/",
 	"startPage": "/",
 	"showAll": false,
 	"search": true,
 	"params": {
 		"/abc": {
-			"password": "123"
+			"password": "guest_Api789"
 		},
 		"/abc/abc": {
-			"password": "123"
+			"password": "guest_Api789"
 		}
 	}
 }, {
